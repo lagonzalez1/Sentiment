@@ -1,13 +1,13 @@
 # Sentiment
 Sentiment analysis on twitter post.
 WordCloud image.
-This script allows you to input a twitter username and bases on their last 100 tweets show if their tweets have been generally positive or negative.
 
+This scrip analyizes the last 100 tweets from a user and displayes sentiment on the entire data set.
 
 Sentimenet Analysis: Sentiment analysis is the use of natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information
 ![image](https://user-images.githubusercontent.com/38986377/171091764-1756c90b-df1b-432e-a9c3-9e52812e8099.png)
 
-Using:
+Dependancies:
 Python
 NLTK library
 Jupyter
@@ -37,6 +37,11 @@ git clone 'this'
 -install nltk
 -install WordCloud
 
+Example: 
 
 ![example](https://user-images.githubusercontent.com/38986377/171094670-9adbec11-03a9-4790-b89c-6ce5bc0a381b.PNG)
+
+![output1](https://user-images.githubusercontent.com/38986377/171095113-46d038cb-fa77-430a-967f-bd31cc4e8a5e.PNG)
+
+![output2](https://user-images.githubusercontent.com/38986377/171095119-1c1510fe-8f04-41c1-89b7-a38a81d86aab.PNG)
 
