@@ -1,4 +1,4 @@
-# Sentiment
+# Sentiment analysis
 Sentiment analysis on twitter post.
 WordCloud image.
 
