@@ -29,12 +29,12 @@ Process for Sentiment analysis:
 
 
 
-TO RUN: \n
-replace variable username = "USERNAMEHERE" \n
-git clone 'this' \n
--python 3.8 \n
--install nltk \n
--install WordCloud \n
+TO RUN:  <br />
+replace variable username = "USERNAMEHERE"  <br />
+git clone 'this'  <br />
+-python 3.8  <br />
+-install nltk  <br />
+-install WordCloud  <br />
 
 Example: 
 
