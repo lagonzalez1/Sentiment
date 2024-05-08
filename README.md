@@ -1,7 +1,7 @@
 # Sentiment analysis
 
 
-This scrip analyizes the last 100 tweets from a user and displayes sentiment on the entire data set. Also generates an image using wordcloud for commonly used words.
+This scrip analyizes the last 100 tweets from a user and displays sentiment on the entire data set. Also generates an image using wordcloud for commonly used words.
 
 Sentimenet Analysis: Sentiment analysis is the use of natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information
 ![image](https://user-images.githubusercontent.com/38986377/171091764-1756c90b-df1b-432e-a9c3-9e52812e8099.png)
